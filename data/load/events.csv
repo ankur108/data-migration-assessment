@@ -1,3 +1,3 @@
 Id,EventName,EventTypeID,Description,Location,EventStatusID,StartDateTime,EndDateTime,AdditionalDescription,CreatedAt,CreatedBy,UpdatedAt,UpdatedBy
-ET_001,2019 Market Re-Cap,,,,,,,,2025-07-14 10:16:22.359468,System_Data_Migration,2025-07-14 10:16:22.360123,System_Data_Migration
-ET_002,Leaders and Partners Dinner,,,,,,,,2025-07-14 10:16:22.359468,System_Data_Migration,2025-07-14 10:16:22.360123,System_Data_Migration
+ET_001,2019 Market Re-Cap,,,,,,,,2025-07-14 11:31:53.600814,System_Data_Migration,2025-07-14 11:31:53.600874,System_Data_Migration
+ET_002,Leaders and Partners Dinner,,,,,,,,2025-07-14 11:31:53.600814,System_Data_Migration,2025-07-14 11:31:53.600874,System_Data_Migration
