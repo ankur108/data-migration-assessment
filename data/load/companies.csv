@@ -1,644 +1,644 @@
 Id,CompanyName,CompanyTypeId,PrivateEquityCompanySectors,PrivateEquityPortfolioCompanies,VerticalId,SubVerticalId,NumberOfEmployees,LTMRevenue,LTM EBITA,CurrencyId,EnterpriseValue,YearFounded,ParentCompany,AssetsUnderManagement,AddressLine1,AddressLine2,City,PostCode,Country,Website,AdditionalDescription,CreatedAt,CreatedBy,UpdatedAt,UpdatedBy
-COM_001,100% employee owned (ESOP),3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_002,3i,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_003,5-Hour Energy,1,,,2,26,,,265.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_004,A Place for Mom,1,,,1,21,,,,,269,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_005,ABC Billing,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_006,ACG & PRP,1,,,2,27,,,30.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_007,AE Industrial,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_008,AEA,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_009,AEA Investors,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+COM_001,100% employee owned (ESOP),3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_002,3i,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_003,5-Hour Energy,1,,,2,26,,,265.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_004,A Place for Mom,1,,,1,21,,,,,269,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_005,ABC Billing,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_006,ACG & PRP,1,,,2,27,,,30.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_007,AE Industrial,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_008,AEA,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_009,AEA Investors,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_010,AEA Investors LP,3,"- Consumer products
 - Industrial","- Traeger (Current)
-- Barnet (Cosmetic)",,,,,,1,,,,10.0,,,,,,www.aeainvestors.com,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_011,AR Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_012,ASC,1,,,2,23,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_013,ATC Associates,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_014,AccentCare,1,,,3,28,,,68.0,,625.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_015,Acima Credit,1,,,2,23,,,57.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_016,Aclara Technologies,1,,,1,4,,,,,1040,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_017,AdMedia,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_018,Advanced Discovery,1,,,1,9,,,,,300,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_019,Advantage Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_020,Advent Software,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_021,Advicent,1,,,1,14,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_022,Advisory Board Company,1,,,3,32,,,185.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_023,"Akamai, etc.",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_024,Alecto Healthcare Services,1,,,3,34,,,25.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_025,Allen & Co,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_026,Allergy Partners,1,,,3,28,,,22.0,,250.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_027,Altran,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_028,AmTrust,1,,,1,15,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_029,American Advisors Group,1,,,1,19,,,,,720,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_030,American Capital Equity,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_031,American Freight,1,,,2,25,,,46.0,,350.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_032,American Infrastructure Funds,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_033,American Medical Response,1,,,3,32,,,262.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_034,Amherst Pierpont,1,,,1,13,,,,,450,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_035,Andrews Advisory Group,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_036,Apax,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_037,Aqua Finance,1,,,1,19,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_038,Aquiline Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_039,Ares,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_040,Argon,1,,,3,31,,,74.0,,750.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_041,Aricent,1,,,1,38,,,,,1450,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_042,Array,1,,,2,23,,291.0,82.0,,700.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_043,Aryzta Facilities,1,,,2,24,,,-23.0,,90.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_044,"Ascension, Echo",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_045,Atlanta Cheesecake,1,,,2,26,,,6.756756756756756,,50.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_046,Audax,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_047,Audax Private Equity,3,- Industrial,- Chem Specialty Chemicals,,,,,,1,,,,11.5,,,,,,www.audaxprivateequity.com,- We have experience with specialty chemicals with with they have about 5 portfolio companies,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_048,Augury,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_049,Aurora,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_050,BAML,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_051,BBB Industries,1,,,1,7,,,,,1000,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_052,BHI,1,,,1,4,,,,,36.4,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_053,BJ's Wholesale Club,1,,,2,25,,,515.0,,4000.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_054,BKD Corporate Finance,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_055,BMO,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_056,BMO,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_057,BR Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_058,Back to Nature,1,,,2,26,,,10.4,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_059,Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_060,Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_061,Baird / Stifel,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_062,"Baird, Jefferies",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_063,BakeMark,1,,,2,26,,,58.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_064,Bank of America,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_065,Barclays,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_066,Barclays,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_067,Barclays Goldman Sachs,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_068,"Barclays, BMO",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_069,Baring Private Equity Asia,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_070,Bay State,1,,,3,29,,,7.5,,60.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_071,Belly,1,,,2,27,,,77.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_072,BenefitMall,1,,,1,14,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_073,Benevis,1,,,3,29,,,43.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_074,Benson's,1,,,2,26,,,13.0,,80.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_075,Berkshire Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_076,Berner Food & Beverage,1,,,2,26,,,58.0,,650.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_077,Bernhard Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_078,Bessemer Venture,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_079,Bitnami,1,,,2,26,,,22.5,,135.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_080,BlackArch,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_081,BlackArch,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_082,Blaze Pizza,1,,,2,27,,,3.0,,200.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_083,Bluepay,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_084,Boston Market,1,,,2,27,,,41.6,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_085,Brentwood Associates,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_086,Brightstar (U.S.),1,,,1,5,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_087,Brownie Brittle,1,,,2,26,,,-1.7,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_088,BuildZoom,1,,,3,29,,,49.0,,600.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_089,CCMP,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Barnet (Cosmetic)",,,,,,1,,,,10.0,,,,,,www.aeainvestors.com,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_011,AR Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_012,ASC,1,,,2,23,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_013,ATC Associates,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_014,AccentCare,1,,,3,28,,,68.0,,625.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_015,Acima Credit,1,,,2,23,,,57.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_016,Aclara Technologies,1,,,1,4,,,,,1040,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_017,AdMedia,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_018,Advanced Discovery,1,,,1,9,,,,,300,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_019,Advantage Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_020,Advent Software,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_021,Advicent,1,,,1,14,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_022,Advisory Board Company,1,,,3,32,,,185.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_023,"Akamai, etc.",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_024,Alecto Healthcare Services,1,,,3,34,,,25.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_025,Allen & Co,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_026,Allergy Partners,1,,,3,28,,,22.0,,250.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_027,Altran,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_028,AmTrust,1,,,1,15,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_029,American Advisors Group,1,,,1,19,,,,,720,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_030,American Capital Equity,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_031,American Freight,1,,,2,25,,,46.0,,350.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_032,American Infrastructure Funds,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_033,American Medical Response,1,,,3,32,,,262.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_034,Amherst Pierpont,1,,,1,13,,,,,450,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_035,Andrews Advisory Group,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_036,Apax,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_037,Aqua Finance,1,,,1,19,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_038,Aquiline Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_039,Ares,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_040,Argon,1,,,3,31,,,74.0,,750.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_041,Aricent,1,,,1,38,,,,,1450,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_042,Array,1,,,2,23,,291.0,82.0,,700.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_043,Aryzta Facilities,1,,,2,24,,,-23.0,,90.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_044,"Ascension, Echo",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_045,Atlanta Cheesecake,1,,,2,26,,,6.756756756756756,,50.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_046,Audax,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_047,Audax Private Equity,3,- Industrial,- Chem Specialty Chemicals,,,,,,1,,,,11.5,,,,,,www.audaxprivateequity.com,- We have experience with specialty chemicals with with they have about 5 portfolio companies,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_048,Augury,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_049,Aurora,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_050,BAML,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_051,BBB Industries,1,,,1,7,,,,,1000,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_052,BHI,1,,,1,4,,,,,36.4,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_053,BJ's Wholesale Club,1,,,2,25,,,515.0,,4000.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_054,BKD Corporate Finance,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_055,BMO,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_056,BMO,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_057,BR Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_058,Back to Nature,1,,,2,26,,,10.4,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_059,Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_060,Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_061,Baird / Stifel,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_062,"Baird, Jefferies",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_063,BakeMark,1,,,2,26,,,58.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_064,Bank of America,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_065,Barclays,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_066,Barclays,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_067,Barclays Goldman Sachs,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_068,"Barclays, BMO",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_069,Baring Private Equity Asia,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_070,Bay State,1,,,3,29,,,7.5,,60.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_071,Belly,1,,,2,27,,,77.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_072,BenefitMall,1,,,1,14,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_073,Benevis,1,,,3,29,,,43.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_074,Benson's,1,,,2,26,,,13.0,,80.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_075,Berkshire Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_076,Berner Food & Beverage,1,,,2,26,,,58.0,,650.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_077,Bernhard Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_078,Bessemer Venture,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_079,Bitnami,1,,,2,26,,,22.5,,135.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_080,BlackArch,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_081,BlackArch,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_082,Blaze Pizza,1,,,2,27,,,3.0,,200.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_083,Bluepay,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_084,Boston Market,1,,,2,27,,,41.6,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_085,Brentwood Associates,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_086,Brightstar (U.S.),1,,,1,5,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_087,Brownie Brittle,1,,,2,26,,,-1.7,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_088,BuildZoom,1,,,3,29,,,49.0,,600.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_089,CCMP,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_090,CCMP Capital,3,"- Consumer products
 - Industrial","- Jetro Cash & Carry
-- Shoes for Crews",,,,,,1,,,,12.0,,,,,,www.ccmpcapital.com,- Are big on Consumer and industrial,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_091,CD&R,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_092,CFGI,1,,,1,38,,,,,320,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_093,CHA Consulting,1,,,1,38,,,,,260,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_094,CIBTvisas,1,,,1,12,,,,,650,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_095,CIVC,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_096,CLEAResult,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_097,CPMG,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_098,CVC,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_099,Café Rio,1,,,2,27,,,22.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_100,Café Valley,1,,,2,26,,,18.0,,135.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_101,Caltius,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_102,Canaccord,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_103,Cantor Fitzgerald,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_104,Capco,1,,,1,16,,,,,599,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_105,Capgemini,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_106,Capital Brands,1,,,2,24,,,56.2,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_107,Capsa,1,,,3,31,,,34.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_108,Captain D's,1,,,2,27,,,36.8,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_109,CareCentrix,1,,,3,33,,1490.0,95.0,,1200.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_110,Carlyle,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_111,Carolina Beverage Group,1,,,2,26,,,31.9,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_112,Carrabba's,1,,,2,27,,,85.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_113,Carve out of Navigant,1,,,1,38,,,,,600,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_114,Cascadia Capital,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_115,Cascadia Capital,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_116,Censeo,1,,,3,33,,,35.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_117,Centerview,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_118,Centerview,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_119,Centre Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_120,Charlesbank,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_121,Chuy's,1,,,2,27,,,43.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_122,Citi,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Shoes for Crews",,,,,,1,,,,12.0,,,,,,www.ccmpcapital.com,- Are big on Consumer and industrial,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_091,CD&R,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_092,CFGI,1,,,1,38,,,,,320,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_093,CHA Consulting,1,,,1,38,,,,,260,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_094,CIBTvisas,1,,,1,12,,,,,650,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_095,CIVC,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_096,CLEAResult,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_097,CPMG,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_098,CVC,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_099,Café Rio,1,,,2,27,,,22.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_100,Café Valley,1,,,2,26,,,18.0,,135.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_101,Caltius,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_102,Canaccord,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_103,Cantor Fitzgerald,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_104,Capco,1,,,1,16,,,,,599,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_105,Capgemini,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_106,Capital Brands,1,,,2,24,,,56.2,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_107,Capsa,1,,,3,31,,,34.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_108,Captain D's,1,,,2,27,,,36.8,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_109,CareCentrix,1,,,3,33,,1490.0,95.0,,1200.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_110,Carlyle,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_111,Carolina Beverage Group,1,,,2,26,,,31.9,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_112,Carrabba's,1,,,2,27,,,85.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_113,Carve out of Navigant,1,,,1,38,,,,,600,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_114,Cascadia Capital,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_115,Cascadia Capital,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_116,Censeo,1,,,3,33,,,35.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_117,Centerview,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_118,Centerview,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_119,Centre Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_120,Charlesbank,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_121,Chuy's,1,,,2,27,,,43.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_122,Citi,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_123,Clayton Dubilier & Rice,3,"- Consumer products
 - Industrial","- Roofing Supply Group
 - US Foods
-- HD Supply",,,,,,1,,,,18.0,,,,,,www.cdr-inc.com,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_124,Clear Choice,1,,,3,29,,,43.7,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_125,Clearent,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_126,Clinical Innovations,1,,,3,31,,,20.8,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_127,Cloverleaf Cold Storage,1,,,2,26,,,156.5,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_128,CompoSecure,1,,,1,3,,,,,1130,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_129,Comvest,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_130,Consilio,1,,,1,9,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_131,"Continental, etc.",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_132,Continuum,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_133,Convergint Technologies,1,,,1,5,,,,,1090,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_134,Conversocial,1,,,2,26,,,34.0,,125.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_135,Correct Care Solutions,1,,,3,28,,,68.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_136,Country Fresh,1,,,2,26,,,318.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_137,Coventry Workers' Comp,1,,,3,33,,,120.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_138,Cowen,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_139,Cowen,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_140,Credit Suisse,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_141,"Credit Suisse, DB",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- HD Supply",,,,,,1,,,,18.0,,,,,,www.cdr-inc.com,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_124,Clear Choice,1,,,3,29,,,43.7,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_125,Clearent,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_126,Clinical Innovations,1,,,3,31,,,20.8,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_127,Cloverleaf Cold Storage,1,,,2,26,,,156.5,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_128,CompoSecure,1,,,1,3,,,,,1130,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_129,Comvest,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_130,Consilio,1,,,1,9,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_131,"Continental, etc.",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_132,Continuum,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_133,Convergint Technologies,1,,,1,5,,,,,1090,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_134,Conversocial,1,,,2,26,,,34.0,,125.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_135,Correct Care Solutions,1,,,3,28,,,68.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_136,Country Fresh,1,,,2,26,,,318.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_137,Coventry Workers' Comp,1,,,3,33,,,120.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_138,Cowen,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_139,Cowen,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_140,Credit Suisse,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_141,"Credit Suisse, DB",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_142,Crestview Partners,3,- Industrial Products,"- Key Safety Systems
-- Accuride corporation",,,,,,1,,,,20.0,,,,,,www.crestview.com,- Have industrial products focus,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_143,Cross Country Infrastructure,1,,,1,4,,,,,450,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_144,Crossmark,1,,,1,21,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_145,Cypress Group,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_146,DFW Capital Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_147,DH Corporation,1,,,1,14,,,,,"CAD $3,474",,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_148,DRB Systems,1,,,1,5,,,,,240,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_149,DaVita Dialysis / American Renal Associates,1,,,3,28,,,50.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_150,Dade Paper,1,,,2,27,,,28.4,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_151,Deckers Brands,1,,,2,24,,,219.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_152,Del Frisco's,1,,,2,27,,,55.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_153,Deloitte,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_154,Deloitte,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_155,Dent Wizard,1,,,1,4,,,,,820,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_156,Dentalcorp,1,,,3,29,,562.0,120.0,,1500.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_157,Deutsche Bank,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_158,Direct to Company,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_159,Direct to FIS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_160,Direxion Investments,1,,,1,18,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_161,Discover.org,1,,,1,21,,,,,1100,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_162,Discovery,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_163,Discovery Education,1,,,1,10,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_164,DiversiTech,1,,,1,7,,,,,760,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_165,Divisions Maintenance Group,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_166,Dole Food Company,1,,,2,26,,,240.0,,2000.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_167,Dometic Group,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_168,Dorel Home,1,,,2,24,,,83.3,,600.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_169,Dorel Industries,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_170,DuPage Medical Group,1,,,3,28,,,92.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_171,Duff & Phelps,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_172,Duff & Phelps,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_173,Dwyer Group,1,,,1,8,,,,,600,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_174,Dynasty Financial Partners,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_175,E*TRADE,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_176,EAG,1,,,1,37,,,,,650,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_177,ERC,1,,,3,29,,,46.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_178,ESOP,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_179,Echo Logistics,1,,,1,12,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_180,Ecinity,1,,,2,25,,16.2,3.2,,90.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_181,Edgestone,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_182,El Rancho,1,,,2,25,,,28.2,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_183,Electrical Components International,1,,,2,24,,,130.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_184,Electrical Components International,1,,,1,4,,,,,1250,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_185,Elior Group,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_186,Elior NA,1,,,1,39,,,,,950,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_187,Elite Dental,1,,,3,29,,72.0,12.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_188,Energy Capital Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_189,Energy Solutions,1,,,1,4,,,,,1010,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_190,EnviroVac,1,,,1,4,,,,,165,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_191,Estancia,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_192,Eurofins,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_193,European Wax Center,1,,,2,25,,,29.5,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_194,Evercore,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_195,Evestment,1,,,1,6,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_196,Evolution Research Group,1,,,3,30,,,17.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_197,Express Oil Change & Tire,1,,,2,25,,,41.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_198,Exxon Assets,1,,,2,25,,,200.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_199,FFL,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_200,FFL Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_201,FIS,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_202,FMG,1,,,1,21,,,,,750,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_203,FT Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_204,Fast Track It,1,,,2,25,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_205,Ferraro Foods,1,,,2,23,,,32.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_206,Fieldbrook Foods,1,,,2,26,,,27.1,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_207,Fiesta Restaurant Group,1,,,2,27,,,103.2,,850.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_208,Finastra,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_209,Finnea Group,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_210,Fintrax,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_211,Firebirds,1,,,2,27,,,19.3,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_212,First Data,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_213,First Watch,1,,,2,27,,,35.5,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_214,Flexpoint,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_215,FlightCar,1,,,2,25,,,,,10.5,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_216,Focal Point,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_217,FolioFN,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_218,Fontanini,1,,,2,26,,,20.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_219,"Foundation Consumer Healthcare, Cooper Surgical, CVC",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_220,Founder,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_221,Founders,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_222,GA / Stonepoint,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_223,GS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_224,GS Merchant Banking,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_225,"GS, Insight Venture, Pritzker, Huizenga",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_226,GTCR,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_227,Galls,1,,,1,7,,,,,402.5,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_228,General Atlantic,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_229,General Pet,1,,,2,23,,,2.3,,18.5,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_230,Genpact IT Transformation assets,1,,,1,5,,,,,200,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Accuride corporation",,,,,,1,,,,20.0,,,,,,www.crestview.com,- Have industrial products focus,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_143,Cross Country Infrastructure,1,,,1,4,,,,,450,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_144,Crossmark,1,,,1,21,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_145,Cypress Group,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_146,DFW Capital Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_147,DH Corporation,1,,,1,14,,,,,"CAD $3,474",,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_148,DRB Systems,1,,,1,5,,,,,240,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_149,DaVita Dialysis / American Renal Associates,1,,,3,28,,,50.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_150,Dade Paper,1,,,2,27,,,28.4,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_151,Deckers Brands,1,,,2,24,,,219.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_152,Del Frisco's,1,,,2,27,,,55.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_153,Deloitte,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_154,Deloitte,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_155,Dent Wizard,1,,,1,4,,,,,820,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_156,Dentalcorp,1,,,3,29,,562.0,120.0,,1500.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_157,Deutsche Bank,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_158,Direct to Company,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_159,Direct to FIS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_160,Direxion Investments,1,,,1,18,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_161,Discover.org,1,,,1,21,,,,,1100,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_162,Discovery,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_163,Discovery Education,1,,,1,10,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_164,DiversiTech,1,,,1,7,,,,,760,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_165,Divisions Maintenance Group,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_166,Dole Food Company,1,,,2,26,,,240.0,,2000.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_167,Dometic Group,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_168,Dorel Home,1,,,2,24,,,83.3,,600.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_169,Dorel Industries,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_170,DuPage Medical Group,1,,,3,28,,,92.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_171,Duff & Phelps,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_172,Duff & Phelps,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_173,Dwyer Group,1,,,1,8,,,,,600,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_174,Dynasty Financial Partners,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_175,E*TRADE,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_176,EAG,1,,,1,37,,,,,650,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_177,ERC,1,,,3,29,,,46.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_178,ESOP,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_179,Echo Logistics,1,,,1,12,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_180,Ecinity,1,,,2,25,,16.2,3.2,,90.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_181,Edgestone,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_182,El Rancho,1,,,2,25,,,28.2,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_183,Electrical Components International,1,,,2,24,,,130.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_184,Electrical Components International,1,,,1,4,,,,,1250,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_185,Elior Group,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_186,Elior NA,1,,,1,39,,,,,950,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_187,Elite Dental,1,,,3,29,,72.0,12.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_188,Energy Capital Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_189,Energy Solutions,1,,,1,4,,,,,1010,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_190,EnviroVac,1,,,1,4,,,,,165,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_191,Estancia,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_192,Eurofins,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_193,European Wax Center,1,,,2,25,,,29.5,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_194,Evercore,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_195,Evestment,1,,,1,6,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_196,Evolution Research Group,1,,,3,30,,,17.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_197,Express Oil Change & Tire,1,,,2,25,,,41.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_198,Exxon Assets,1,,,2,25,,,200.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_199,FFL,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_200,FFL Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_201,FIS,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_202,FMG,1,,,1,21,,,,,750,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_203,FT Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_204,Fast Track It,1,,,2,25,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_205,Ferraro Foods,1,,,2,23,,,32.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_206,Fieldbrook Foods,1,,,2,26,,,27.1,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_207,Fiesta Restaurant Group,1,,,2,27,,,103.2,,850.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_208,Finastra,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_209,Finnea Group,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_210,Fintrax,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_211,Firebirds,1,,,2,27,,,19.3,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_212,First Data,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_213,First Watch,1,,,2,27,,,35.5,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_214,Flexpoint,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_215,FlightCar,1,,,2,25,,,,,10.5,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_216,Focal Point,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_217,FolioFN,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_218,Fontanini,1,,,2,26,,,20.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_219,"Foundation Consumer Healthcare, Cooper Surgical, CVC",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_220,Founder,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_221,Founders,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_222,GA / Stonepoint,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_223,GS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_224,GS Merchant Banking,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_225,"GS, Insight Venture, Pritzker, Huizenga",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_226,GTCR,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_227,Galls,1,,,1,7,,,,,402.5,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_228,General Atlantic,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_229,General Pet,1,,,2,23,,,2.3,,18.5,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_230,Genpact IT Transformation assets,1,,,1,5,,,,,200,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_231,Genstar Capital,3,- Industrial Products,"- Pretium Packaging
-- Fort Dearborn Company",,,,,,1,,,,8.5,,,,,,www.gencap.com,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_232,GoWireless,1,,,2,25,,,100.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Fort Dearborn Company",,,,,,1,,,,8.5,,,,,,www.gencap.com,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_232,GoWireless,1,,,2,25,,,100.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_233,Golden Gate Capital,3,"- Consumer products
 - Industrial","- Eddie Bauer
-- Pacsun",,,,,,1,,,,14.0,,,,,,www.goldengatecap.com,"Mr. Thomas focuses on investments in Industrials, and basic materials sector in particular main office number",2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_234,Goldman Sachs,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_235,Goldman Sachs,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_236,"Goldman Sachs, Harris Williams",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_237,Gopher Resource,1,,,1,4,,,,,930,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_238,Gordmans Stores,1,,,2,25,,,21.9,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Pacsun",,,,,,1,,,,14.0,,,,,,www.goldengatecap.com,"Mr. Thomas focuses on investments in Industrials, and basic materials sector in particular main office number",2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_234,Goldman Sachs,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_235,Goldman Sachs,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_236,"Goldman Sachs, Harris Williams",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_237,Gopher Resource,1,,,1,4,,,,,930,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_238,Gordmans Stores,1,,,2,25,,,21.9,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_239,Gores Group,3,"- Consumer products
-- Industrial",- Sage Automotive (previously),,,,,,1,,,,2.4,,,,,,www.gores.com,- One of their strategies on some of their case studies is addons (e.g Sage Automotive)… they might want add-ons but don’t know how to go about doing them,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_240,Greenbriar,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_241,Greif & Co,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_242,Gridiron,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_243,Gryphon,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_244,Gryphon (Cakerie),3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_245,Guaranteed Rate,1,,,1,19,,,,,650,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_246,Guggenheim,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_247,Guitar Center,1,,,2,25,,,160.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_248,HIG,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_249,Halifax,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_250,Halo,1,,,1,7,,,,,500,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_251,Hankyul Invest,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_252,Harris Williams,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_253,Harris Williams,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_254,Harris Williams / Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_255,Harris Williams / William Blair,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_256,"Harris Williams, JP Morgan",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_257,"Harris Williams, William Blair",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Industrial",- Sage Automotive (previously),,,,,,1,,,,2.4,,,,,,www.gores.com,- One of their strategies on some of their case studies is addons (e.g Sage Automotive)… they might want add-ons but don’t know how to go about doing them,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_240,Greenbriar,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_241,Greif & Co,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_242,Gridiron,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_243,Gryphon,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_244,Gryphon (Cakerie),3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_245,Guaranteed Rate,1,,,1,19,,,,,650,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_246,Guggenheim,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_247,Guitar Center,1,,,2,25,,,160.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_248,HIG,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_249,Halifax,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_250,Halo,1,,,1,7,,,,,500,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_251,Hankyul Invest,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_252,Harris Williams,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_253,Harris Williams,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_254,Harris Williams / Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_255,Harris Williams / William Blair,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_256,"Harris Williams, JP Morgan",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_257,"Harris Williams, William Blair",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_258,Harvest Partners,3,- Industrial Products,"- Associated Materials (Prior)
-- Driven Brands (Consumer)",,,,,,1,,,,2.0,,,,,,www.harvestpartners.com,- Did addons for Associated Materials while they owned it,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_259,Headwaters,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_260,Healthtronics,1,,,3,28,,,36.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_261,Hearthside,1,,,2,26,,,216.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_262,Heartland Automotive Services,1,,,2,24,,,32.9,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_263,HemaSource,1,,,3,35,,,20.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_264,HighTower,1,,,1,13,,,,,360,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_265,"Highlander, etc.",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_266,Holley Performance Products,1,,,2,24,,,72.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_267,Horizon Primary Care,1,,,3,30,,,145.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_268,Houlihan Lokey,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_269,Houlihan Lokey,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_270,Houlihan Lokey UBS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_271,Houzz,1,,,3,31,,,124.2,,1250.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_272,Hubbell Incorporated,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_273,Huddle House,1,,,2,27,,,17.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_274,IFTTT,1,,,2,25,,,19.4,,160.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_275,Imperial Capital Group,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_276,Indigo Wild,1,,,2,24,,,7.6,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_277,Insurance Zebra,1,,,3,32,,,53.3,,480.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_278,Interdent,1,,,3,29,,,36.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_279,International Cash Distributors,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_280,International Catastrophe Insurance Managers,1,,,1,13,,,,,202,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_281,Invista,1,,,2,24,,,297.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Driven Brands (Consumer)",,,,,,1,,,,2.0,,,,,,www.harvestpartners.com,- Did addons for Associated Materials while they owned it,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_259,Headwaters,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_260,Healthtronics,1,,,3,28,,,36.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_261,Hearthside,1,,,2,26,,,216.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_262,Heartland Automotive Services,1,,,2,24,,,32.9,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_263,HemaSource,1,,,3,35,,,20.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_264,HighTower,1,,,1,13,,,,,360,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_265,"Highlander, etc.",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_266,Holley Performance Products,1,,,2,24,,,72.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_267,Horizon Primary Care,1,,,3,30,,,145.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_268,Houlihan Lokey,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_269,Houlihan Lokey,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_270,Houlihan Lokey UBS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_271,Houzz,1,,,3,31,,,124.2,,1250.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_272,Hubbell Incorporated,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_273,Huddle House,1,,,2,27,,,17.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_274,IFTTT,1,,,2,25,,,19.4,,160.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_275,Imperial Capital Group,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_276,Indigo Wild,1,,,2,24,,,7.6,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_277,Insurance Zebra,1,,,3,32,,,53.3,,480.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_278,Interdent,1,,,3,29,,,36.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_279,International Cash Distributors,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_280,International Catastrophe Insurance Managers,1,,,1,13,,,,,202,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_281,Invista,1,,,2,24,,,297.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_282,Irving Place Capital,3,"- Consumer products
 - Industrial","- Bendon
 - New York and Co
 - Rag and Bone",,,,,,1,,,,4.4,,,,,,www.irvingplacecapital.com,"- Have both branded consumer companies and industrial companies
-- DR used to have a contact there ""Doug Kohn""",2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_283,JF Lehman,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_284,JP Morgan,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_285,JP Morgan,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_286,"JP Morgan, Deutsche Bank",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_287,JPM,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_288,Jefferies,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_289,Jefferies,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_290,Jefferies & Company,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_291,"Jefferies, JP Morgan",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_292,"Jefferies, North Point",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_293,Jefferies; Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_294,Jordan Company,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_295,Jordan Home Health,1,,,3,28,,,70.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_296,Just Desserts,1,,,2,26,,,3.6,,28.8,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_297,KBS,1,,,2,34,,,55.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_298,KKR,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_299,KPS Capital Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- DR used to have a contact there ""Doug Kohn""",2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_283,JF Lehman,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_284,JP Morgan,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_285,JP Morgan,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_286,"JP Morgan, Deutsche Bank",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_287,JPM,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_288,Jefferies,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_289,Jefferies,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_290,Jefferies & Company,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_291,"Jefferies, JP Morgan",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_292,"Jefferies, North Point",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_293,Jefferies; Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_294,Jordan Company,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_295,Jordan Home Health,1,,,3,28,,,70.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_296,Just Desserts,1,,,2,26,,,3.6,,28.8,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_297,KBS,1,,,2,34,,,55.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_298,KKR,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_299,KPS Capital Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_300,KPS Capital Partners LP,3,"- Consumer products
 - Industrial","- Taylor Made
-- Winoa",,,,,,1,,,,5.2,,,,,,www.kpsfund.com,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_301,Kastle Systems,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_302,Kayne Anderson,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Winoa",,,,,,1,,,,5.2,,,,,,www.kpsfund.com,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_301,Kastle Systems,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_302,Kayne Anderson,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_303,Kelso & Company,3,"- Consumer Products
 - Building products","- Augusta Sportsware
 - Eagle Foods",,,,,,1,,,,11.2,,,,,,www.kelso.com,"- DR says he knows Phil Berney or has heard of him
 - Big on branded consumer products
-- Looking for addons on some of their portfolio companies",2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_304,Key Banc,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_305,KeyBanc,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_306,Kichler,1,,,2,24,,,57.358,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_307,King's Pastry,1,,,2,26,,,6.3,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_308,"Kohlberg & Company, L.L.C.",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Looking for addons on some of their portfolio companies",2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_304,Key Banc,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_305,KeyBanc,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_306,Kichler,1,,,2,24,,,57.358,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_307,King's Pastry,1,,,2,26,,,6.3,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_308,"Kohlberg & Company, L.L.C.",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_309,Kohlberg and Company,3,"- Industrial
 - Consumer Products","- Nelson (Neutraceutical)
 - NBG Home Décor Products
-- Hoffmaster Group",,,,,,1,,,,7.5,,,,,,www.kohlberg.com,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_310,Kriser's Natural Pet,1,,,2,25,,,-1.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_311,Kroger Convenience Stores,1,,,2,25,,,193.0,,1900.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_312,LGP,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_313,LLR Capital / Founders,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_314,LRR Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_315,Laces,1,,,2,24,,,40.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_316,Laser Spine Institute,1,,,3,28,,,85.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_317,Lazard,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_318,Lazard,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_319,Le-Vel,1,,,2,26,,,79.0,,600.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_320,Lee Equity,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_321,Leerink,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_322,Leonard Green,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_323,Levin Furniture,1,,,2,25,,,18.3,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_324,Lifetouch,1,,,2,23,,,140.0,,750.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_325,Lincoln International,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_326,Lincolnshire,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_327,Liquid Environmental Solutions,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_328,LiquidHub,1,,,1,21,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_329,Littlejohn,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_330,Long Point,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_331,Luma Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_332,Luna Grill,1,,,2,27,,,1.4,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_333,Lund,1,,,1,7,,,,,750,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_334,MB2 Dental Solutions,1,,,3,29,,,28.123,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_335,MDVIP,1,,,3,28,,,40.6,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_336,MEDHOST,1,,,3,32,,,46.1,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_337,"MS, Stephens",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_338,Mallinckrodt Controlled Substances,1,,,3,30,,,288.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_339,Manna Pro,1,,,2,23,,,28.4,,265.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_340,Marsh & McLennan,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_341,Masco Corp.,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_342,MedRisk,1,,,3,33,,,73.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_343,MediaMath,1,,,1,21,,,,,110,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_344,Medicus,1,,,3,32,,,23.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_345,Mel-O-Cream,1,,,2,26,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_346,Melissa & Doug,1,,,2,24,,,47.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_347,MeridianLink,1,,,1,14,,,,,480,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_348,Mgmt,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_349,Midwest Dental,1,,,3,29,,,35.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_350,Milani,1,,,2,24,,126.2,39.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_351,Millennium Health,1,,,3,28,,,405.0,,2800.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_352,Moelis,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_353,Moelis,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_354,Moelis & Company,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_355,"Moelis, Cain",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_356,"Moelis, Jefferies",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_357,Montrose Environmental,1,,,1,37,,,,,260,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_358,Moravia,1,,,1,38,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_359,Morgan Stanely,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_360,Morgan Stanley,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_361,Morgan Stanley,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_362,"Morgan Stanley, Deutsche Bank",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_363,"Morgan Stanley, Wells Fargo",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_364,Morris Furniture,1,,,2,25,,,8.4,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_365,,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_366,NAB Holdings,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_367,NTT Communications,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_368,NV5 Global,1,,,1,37,,,,,530,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_369,Nasdaq,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_370,National Response Corporation (NRC),1,,,1,37,,,,,350,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Hoffmaster Group",,,,,,1,,,,7.5,,,,,,www.kohlberg.com,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_310,Kriser's Natural Pet,1,,,2,25,,,-1.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_311,Kroger Convenience Stores,1,,,2,25,,,193.0,,1900.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_312,LGP,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_313,LLR Capital / Founders,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_314,LRR Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_315,Laces,1,,,2,24,,,40.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_316,Laser Spine Institute,1,,,3,28,,,85.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_317,Lazard,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_318,Lazard,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_319,Le-Vel,1,,,2,26,,,79.0,,600.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_320,Lee Equity,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_321,Leerink,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_322,Leonard Green,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_323,Levin Furniture,1,,,2,25,,,18.3,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_324,Lifetouch,1,,,2,23,,,140.0,,750.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_325,Lincoln International,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_326,Lincolnshire,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_327,Liquid Environmental Solutions,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_328,LiquidHub,1,,,1,21,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_329,Littlejohn,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_330,Long Point,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_331,Luma Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_332,Luna Grill,1,,,2,27,,,1.4,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_333,Lund,1,,,1,7,,,,,750,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_334,MB2 Dental Solutions,1,,,3,29,,,28.123,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_335,MDVIP,1,,,3,28,,,40.6,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_336,MEDHOST,1,,,3,32,,,46.1,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_337,"MS, Stephens",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_338,Mallinckrodt Controlled Substances,1,,,3,30,,,288.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_339,Manna Pro,1,,,2,23,,,28.4,,265.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_340,Marsh & McLennan,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_341,Masco Corp.,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_342,MedRisk,1,,,3,33,,,73.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_343,MediaMath,1,,,1,21,,,,,110,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_344,Medicus,1,,,3,32,,,23.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_345,Mel-O-Cream,1,,,2,26,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_346,Melissa & Doug,1,,,2,24,,,47.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_347,MeridianLink,1,,,1,14,,,,,480,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_348,Mgmt,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_349,Midwest Dental,1,,,3,29,,,35.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_350,Milani,1,,,2,24,,126.2,39.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_351,Millennium Health,1,,,3,28,,,405.0,,2800.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_352,Moelis,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_353,Moelis,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_354,Moelis & Company,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_355,"Moelis, Cain",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_356,"Moelis, Jefferies",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_357,Montrose Environmental,1,,,1,37,,,,,260,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_358,Moravia,1,,,1,38,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_359,Morgan Stanely,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_360,Morgan Stanley,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_361,Morgan Stanley,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_362,"Morgan Stanley, Deutsche Bank",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_363,"Morgan Stanley, Wells Fargo",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_364,Morris Furniture,1,,,2,25,,,8.4,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_365,,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_366,NAB Holdings,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_367,NTT Communications,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_368,NV5 Global,1,,,1,37,,,,,530,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_369,Nasdaq,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_370,National Response Corporation (NRC),1,,,1,37,,,,,350,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_371,Nautic Partners LLC,3,- Industrial Products,"- Custom Windows
 - Precision Engineered Products",,,,,,1,,,,13.0,,,,,,www.nautic.com,"- We've had contact with them before for FS so it's going to be  warm contact
--  They do a lot of industrial products (e.g. Custom Windows)",2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_372,Nestlé USA Confectionary,1,,,2,26,,,195.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_373,New Century Health,1,,,3,33,,,21.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_374,New Mountain,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_375,Newell Industrial & Commercial Brands,1,,,2,24,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_376,Nextdoor.com,1,,,2,27,,,221.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_377,Nomura,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_378,Nomura Bank of America,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_379,Nonni's,1,,,2,26,,,21.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_380,North Point,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_381,North Point Advisors,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_382,"North Point, Jefferies",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_383,"North Point, Morgan Stanley",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_384,Norwest,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_385,Nutex Health,1,,,3,34,,,40.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_386,NxGen MDx,1,,,3,28,,,49.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_387,Oak Hill,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_388,Oaktree,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_389,Ob Hospitalist Group,1,,,3,28,,,47.0,,625.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_390,Odyssey Investment,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_391,Old Chicago,1,,,2,27,,,22.6,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_392,Olympus,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_393,OneSpaWorld,1,,,2,23,,,59.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_394,Onex,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_395,Oppenheimer,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_396,Organix,1,,,1,4,,,,,207,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_397,Ortholite,1,,,2,24,,,54.1,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_398,Osmose,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_399,PDC Brands,1,,,2,24,,,92.0,,900.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_400,PJSC,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_401,PLH,1,,,1,4,,,,,680,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_402,PLI,1,,,1,3,,,,,300,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_403,PSG,1,,,1,7,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_404,PSI Services,1,,,1,37,,,,,500,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_405,PSSI,1,,,1,4,,,,,1600,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_406,Pacon,1,,,2,24,,,35.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_407,Palladium,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+-  They do a lot of industrial products (e.g. Custom Windows)",2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_372,Nestlé USA Confectionary,1,,,2,26,,,195.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_373,New Century Health,1,,,3,33,,,21.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_374,New Mountain,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_375,Newell Industrial & Commercial Brands,1,,,2,24,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_376,Nextdoor.com,1,,,2,27,,,221.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_377,Nomura,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_378,Nomura Bank of America,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_379,Nonni's,1,,,2,26,,,21.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_380,North Point,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_381,North Point Advisors,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_382,"North Point, Jefferies",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_383,"North Point, Morgan Stanley",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_384,Norwest,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_385,Nutex Health,1,,,3,34,,,40.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_386,NxGen MDx,1,,,3,28,,,49.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_387,Oak Hill,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_388,Oaktree,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_389,Ob Hospitalist Group,1,,,3,28,,,47.0,,625.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_390,Odyssey Investment,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_391,Old Chicago,1,,,2,27,,,22.6,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_392,Olympus,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_393,OneSpaWorld,1,,,2,23,,,59.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_394,Onex,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_395,Oppenheimer,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_396,Organix,1,,,1,4,,,,,207,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_397,Ortholite,1,,,2,24,,,54.1,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_398,Osmose,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_399,PDC Brands,1,,,2,24,,,92.0,,900.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_400,PJSC,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_401,PLH,1,,,1,4,,,,,680,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_402,PLI,1,,,1,3,,,,,300,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_403,PSG,1,,,1,7,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_404,PSI Services,1,,,1,37,,,,,500,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_405,PSSI,1,,,1,4,,,,,1600,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_406,Pacon,1,,,2,24,,,35.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_407,Palladium,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_408,Palladium Equity Partners,3,"- Consumer products
 - Industrial","- Sahale Snacks
-- Kars Snacks",,,,,,1,,,,2.1,,,,,,www.palladiumequity.com,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_409,Pamplona,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_410,Paylease,1,,,1,3,,,,,105,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_411,Paymetric,1,,,1,3,,,,,265,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_412,Peak Rock,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_413,Peak Utility Services,1,,,1,4,,,,,235,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_414,Pearl,1,,,1,19,,,,,350,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_415,Pearl Companies,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_416,Pegasus Capital Advisors,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_417,Pennant Foods,1,,,2,27,,,14.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_418,Perkins & Marie Callender's,1,,,2,27,,,40.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_419,Permira,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_420,Pet Supplies Plus,1,,,2,25,,,51.0,,400.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_421,Peter J Solomon,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_422,Petmate,1,,,2,24,,,40.1,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_423,Petsky Prunier,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_424,Phreesia,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_425,Pier 1 Imports,1,,,2,25,,,147.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_426,Piper Jaffray,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_427,Piper Jaffray,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_428,"Piper Jaffray, North Point",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_429,Planet Payment,1,,,1,3,,,,,174,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_430,Platinum,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Kars Snacks",,,,,,1,,,,2.1,,,,,,www.palladiumequity.com,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_409,Pamplona,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_410,Paylease,1,,,1,3,,,,,105,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_411,Paymetric,1,,,1,3,,,,,265,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_412,Peak Rock,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_413,Peak Utility Services,1,,,1,4,,,,,235,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_414,Pearl,1,,,1,19,,,,,350,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_415,Pearl Companies,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_416,Pegasus Capital Advisors,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_417,Pennant Foods,1,,,2,27,,,14.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_418,Perkins & Marie Callender's,1,,,2,27,,,40.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_419,Permira,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_420,Pet Supplies Plus,1,,,2,25,,,51.0,,400.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_421,Peter J Solomon,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_422,Petmate,1,,,2,24,,,40.1,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_423,Petsky Prunier,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_424,Phreesia,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_425,Pier 1 Imports,1,,,2,25,,,147.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_426,Piper Jaffray,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_427,Piper Jaffray,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_428,"Piper Jaffray, North Point",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_429,Planet Payment,1,,,1,3,,,,,174,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_430,Platinum,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_431,Platinum Equity,3,- Industrial Products,"- SCM Metal Products
-- International textile product",,,,,,1,,,,6.5,,,,,,www.platinumequity.com,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_432,Post Private Brands,1,,,2,26,,,106.9,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_433,Potbelly,1,,,2,27,,,38.64,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_434,Potpourri Group,1,,,2,24,,,36.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_435,Premier,1,,,3,36,,,56.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_436,PrimeSource,1,,,1,4,,,,,1470,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_437,Priority Payments,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_438,Privately Held,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_439,ProEx,1,,,3,29,,,1.9,,18.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_440,Project Cougar,1,,,1,4,,,,,240,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_441,Project Yoder,1,,,1,38,,,,,250,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_442,Prometric,1,,,1,37,,,,,1170,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_443,Public,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_444,Publicly Traded,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_445,Qdoba,1,,,2,27,,,67.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_446,Quala,1,,,2,23,,,32.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_447,Quality Solutions,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_448,Qualtek,1,,,1,5,,,,,500,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_449,RBC,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_450,RBC / Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_451,RBC Capital Markets,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_452,RECON,1,,,1,37,,,,,232,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_453,REVA,1,,,3,32,,,11.5,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_454,RW Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_455,RWS Holdings,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_456,RXBAR,1,,,2,26,,,21.8,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_457,Raymond James,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_458,Red Hawk Fire & Security,1,,,1,8,,,,,300,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_459,Regina,1,,,2,25,,,12.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_460,Renaissance Imaging Medical Associates,1,,,3,28,,,19.5,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_461,Restaurant Technology,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_462,Resurgent Holding,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_463,Ridgemont,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_464,Riverside,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_465,Rothschild,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_466,Rough Country,1,,,1,7,,,,,530,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_467,RugsUSA,1,,,2,25,,,39.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_468,RxCrossroads,1,,,3,30,,,56.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_469,Ryan Herco Flow Solutions,1,,,1,7,,,,,280,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_470,SIRVA,1,,,1,40,,,,,870,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_471,SMG,1,,,1,21,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_472,SMS Assist,1,,,1,5,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_473,SRS Distribution,1,,,1,7,,,,,2050,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_474,"Sagard Holdings, Fairfax Capital",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_475,Sage Payment Solutions,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_476,Sandler O’Neill,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_477,Schneider Downs,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_478,Schweiger Dermatology,1,,,3,29,,,12.5,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_479,Seastar Solutions,1,,,1,37,,,,,859,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_480,Secure 24,1,,,1,5,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_481,Securus Technologies,1,,,1,5,,,,,1900,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_482,Shamrock,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_483,Shermco,1,,,1,37,,,,,267,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_484,Shopko,1,,,2,25,,,63.7,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_485,Siegel Management,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_486,Signal Hill,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_487,Signpost,1,,,2,26,,,8.9,,68.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_488,Silverlake / GA,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_489,Sizzling Platter,1,,,2,27,,,43.6,,330.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_490,Smart Carte,1,,,1,12,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_491,SmartThings,1,,,3,32,,,52.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_492,Smile Doctors,1,,,3,29,,,38.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_493,Smucker Baking & Breakfast Brands,1,,,2,26,,,72.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_494,Snooze Eatery,1,,,2,27,,,9.5,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_495,Snowden Lane,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_496,Softbank,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_497,Spice World,1,,,2,26,,,45.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_498,Spinrite,1,,,2,24,,,32.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_499,SquareTwo Financial,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_500,Statewide,1,,,2,23,,,3.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_501,Steadman Clinic,1,,,3,28,,45.0,4.5,,45.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_502,Stephens,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_503,Stephenson’s,1,,,1,19,,,,,CAD $300,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_504,Steven-Robert Originals,1,,,2,26,,,23.0,,200.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_505,Stifel,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_506,Strategic Materials,1,,,1,4,,,,,610,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_507,Summit,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_508,Summit BHC,1,,,3,29,,,13.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- International textile product",,,,,,1,,,,6.5,,,,,,www.platinumequity.com,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_432,Post Private Brands,1,,,2,26,,,106.9,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_433,Potbelly,1,,,2,27,,,38.64,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_434,Potpourri Group,1,,,2,24,,,36.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_435,Premier,1,,,3,36,,,56.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_436,PrimeSource,1,,,1,4,,,,,1470,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_437,Priority Payments,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_438,Privately Held,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_439,ProEx,1,,,3,29,,,1.9,,18.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_440,Project Cougar,1,,,1,4,,,,,240,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_441,Project Yoder,1,,,1,38,,,,,250,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_442,Prometric,1,,,1,37,,,,,1170,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_443,Public,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_444,Publicly Traded,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_445,Qdoba,1,,,2,27,,,67.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_446,Quala,1,,,2,23,,,32.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_447,Quality Solutions,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_448,Qualtek,1,,,1,5,,,,,500,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_449,RBC,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_450,RBC / Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_451,RBC Capital Markets,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_452,RECON,1,,,1,37,,,,,232,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_453,REVA,1,,,3,32,,,11.5,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_454,RW Baird,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_455,RWS Holdings,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_456,RXBAR,1,,,2,26,,,21.8,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_457,Raymond James,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_458,Red Hawk Fire & Security,1,,,1,8,,,,,300,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_459,Regina,1,,,2,25,,,12.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_460,Renaissance Imaging Medical Associates,1,,,3,28,,,19.5,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_461,Restaurant Technology,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_462,Resurgent Holding,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_463,Ridgemont,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_464,Riverside,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_465,Rothschild,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_466,Rough Country,1,,,1,7,,,,,530,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_467,RugsUSA,1,,,2,25,,,39.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_468,RxCrossroads,1,,,3,30,,,56.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_469,Ryan Herco Flow Solutions,1,,,1,7,,,,,280,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_470,SIRVA,1,,,1,40,,,,,870,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_471,SMG,1,,,1,21,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_472,SMS Assist,1,,,1,5,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_473,SRS Distribution,1,,,1,7,,,,,2050,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_474,"Sagard Holdings, Fairfax Capital",3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_475,Sage Payment Solutions,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_476,Sandler O’Neill,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_477,Schneider Downs,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_478,Schweiger Dermatology,1,,,3,29,,,12.5,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_479,Seastar Solutions,1,,,1,37,,,,,859,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_480,Secure 24,1,,,1,5,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_481,Securus Technologies,1,,,1,5,,,,,1900,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_482,Shamrock,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_483,Shermco,1,,,1,37,,,,,267,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_484,Shopko,1,,,2,25,,,63.7,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_485,Siegel Management,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_486,Signal Hill,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_487,Signpost,1,,,2,26,,,8.9,,68.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_488,Silverlake / GA,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_489,Sizzling Platter,1,,,2,27,,,43.6,,330.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_490,Smart Carte,1,,,1,12,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_491,SmartThings,1,,,3,32,,,52.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_492,Smile Doctors,1,,,3,29,,,38.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_493,Smucker Baking & Breakfast Brands,1,,,2,26,,,72.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_494,Snooze Eatery,1,,,2,27,,,9.5,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_495,Snowden Lane,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_496,Softbank,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_497,Spice World,1,,,2,26,,,45.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_498,Spinrite,1,,,2,24,,,32.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_499,SquareTwo Financial,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_500,Statewide,1,,,2,23,,,3.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_501,Steadman Clinic,1,,,3,28,,45.0,4.5,,45.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_502,Stephens,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_503,Stephenson’s,1,,,1,19,,,,,CAD $300,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_504,Steven-Robert Originals,1,,,2,26,,,23.0,,200.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_505,Stifel,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_506,Strategic Materials,1,,,1,4,,,,,610,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_507,Summit,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_508,Summit BHC,1,,,3,29,,,13.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_509,Sun Capital Partners,3,"- Consumer Brands
 - Industrials","- Trulite
 - Arrow Tru-Line",,,,,,1,,,,9.0,,,,,,www.suncappart.com,"- DR knows Marc Leder ( I think)
-- They are big in consumer and industrial (building products)",2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_510,SunGard Insurance,1,,,1,14,,,,,680,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_511,SunTrust,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_512,SunTrust,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_513,Suntrust,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_514,Sweet Harvest Foods,1,,,2,26,,,24.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_515,Sweet Sam's,1,,,2,26,,,2.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_516,Synergy Health Partners,1,,,3,28,,,31.6,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_517,SÅsh,1,,,2,25,,,82.8,,612.5,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_518,TA,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_519,TA Associates,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_520,TM Capital,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_521,TMS,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_522,TPG,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- They are big in consumer and industrial (building products)",2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_510,SunGard Insurance,1,,,1,14,,,,,680,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_511,SunTrust,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_512,SunTrust,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_513,Suntrust,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_514,Sweet Harvest Foods,1,,,2,26,,,24.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_515,Sweet Sam's,1,,,2,26,,,2.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_516,Synergy Health Partners,1,,,3,28,,,31.6,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_517,SÅsh,1,,,2,25,,,82.8,,612.5,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_518,TA,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_519,TA Associates,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_520,TM Capital,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_521,TMS,1,,,1,3,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_522,TPG,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_523,TSG Cosumer Partners,3,- Consumer Brands,"- Smashbox
 - Beauty Bands
 - Elf
 - Cutex",,,,,,1,,,,5.0,,,,,,www.tsgconsumer.com,"- they are purely consumer focussed
-- Seems that most of their strategy is organic growth (from case studies they have)",2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_524,Take-private,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_525,Teasdale Latin Foods,1,,,2,26,,,50.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_526,Teva Women's Health,1,,,3,30,,543.8,246.8,,1600.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_527,Thalmic,1,,,2,27,,,145.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Seems that most of their strategy is organic growth (from case studies they have)",2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_524,Take-private,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_525,Teasdale Latin Foods,1,,,2,26,,,50.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_526,Teva Women's Health,1,,,3,30,,543.8,246.8,,1600.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_527,Thalmic,1,,,2,27,,,145.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_528,The Riverside Company,3,"- Consumer Brands
 - Specialty Mfg and Distribution","- Lille Baby
-- Blue Electronics",,,,,,1,,,,6.0,,,,,,www.riversidecompany.com,"- Have a full section of ""seeking addons for .. "" currently looking for Sunrise Windows (replacement windows companies",2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_529,The Saatva Company,1,,,2,24,,,10.1,,500.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_530,Thermo Fisher Assets,1,,,3,31,,,82.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_531,ThermoFisher,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_532,ThermoFisher Assets,1,,,1,4,,,,,870,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_533,Thoma Bravo,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Blue Electronics",,,,,,1,,,,6.0,,,,,,www.riversidecompany.com,"- Have a full section of ""seeking addons for .. "" currently looking for Sunrise Windows (replacement windows companies",2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_529,The Saatva Company,1,,,2,24,,,10.1,,500.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_530,Thermo Fisher Assets,1,,,3,31,,,82.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_531,ThermoFisher,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_532,ThermoFisher Assets,1,,,1,4,,,,,870,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_533,Thoma Bravo,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
 COM_534,Thomas H. Lee Partners,3,- Consumer & Retail,"- Give & Go Bakery
 - CTI Foods",,,,,,1,,,,10.0,,,,,,www.thl.com,"- Big in consumer and retail industry
-- Have done some addon acquisitions previously",2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_535,ThoughtWorks,1,,,1,5,,,,,531,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_536,ThreeSixty Group,1,,,2,24,,,65.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_537,Tillys,1,,,2,25,,,50.8,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_538,Togetherworks,1,,,1,3,,,,,150,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_539,Traeger,1,,,2,24,,,59.5,,800.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_540,TransPerfect,1,,,1,5,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_541,Treliant Risk Advisors,1,,,1,38,,,,,420,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_542,TriMark,1,,,2,27,,,109.0,,1350.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_543,TricorBraun,1,,,2,34,,,120.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_544,Trilantic,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_545,Trivest,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_546,Truck Hero,1,,,1,7,,,,,1470,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_547,Trust Company of America,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_548,TrustCommerce,1,,,1,3,,,,,66,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_549,Tunnel Hill,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_550,Tyree & D'Angelo Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_551,Tyson Kettle,1,,,2,26,,,21.7,,130.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_552,UBS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_553,UBS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_554,"UBS, Allen & Co.",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_555,US Beef,1,,,2,27,,,40.0,,240.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_556,US Fitness,1,,,2,34,,,32.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_557,US Retirement & Benefits Partners,1,,,1,5,,,,,327,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_558,US Security Associates,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_559,USIC,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_560,Uncle Julio's,1,,,2,27,,,26.6,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_561,Unidine,1,,,2,23,,,24.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_562,United Capital,1,,,1,13,,,,,300,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_563,United Natural Foods,1,,,2,23,,,331.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_564,United Pacific Pet,1,,,2,23,,,4.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_565,United Site Services,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_566,Urgent Care Group,1,,,3,29,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_567,Vaco,1,,,1,11,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_568,Valor Equity Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_569,Vantiv / Worldpay,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_570,Variety Wholesalers,1,,,2,25,,,75.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_571,Venturehouse,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_572,Vision Direct,1,,,3,29,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_573,Vista Equity,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_574,Vitamin Shoppe,1,,,2,25,,,75.75,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_575,WIS International,1,,,1,5,,,,,300,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_576,Warburg,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_577,Warburg Pincus,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_578,Water Street,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_579,Waud Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_580,Wells Fargo,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_581,Wells Fargo,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_582,Western Reserve Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_583,Western Reserve Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_584,Wheel Pros,1,,,2,24,,,53.3,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_585,William Blair,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_586,William Blair,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_587,Wind River Environmental,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_588,Wipro,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_589,Wipro Assets,1,,,1,5,,,,,540,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_590,Wolf Furniture,1,,,2,25,,,2.9,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_591,Woodbridge International,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_592,World Business Lenders,1,,,1,19,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_593,Young Innovations,1,,,3,31,,,60.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_594,Yukon Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_595,Zafin,1,,,1,14,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_596,Zodiac,1,,,2,34,,,87.4,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_597,Zoë's Kitchen,1,,,2,27,,,30.8,,346.5,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_598,iCracked Inc.,1,,,2,27,,,50.0,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_599,iHerb,1,,,2,26,,,,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_600,littleBits,1,,,2,26,,,66.3,,,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
-COM_601,umentioned,1,,,2,23,,,11.8,,160.0,,,,,,,,,,,2025-07-14 12:16:12.568464,System_Data_Migration,2025-07-14 12:16:12.569357,System_Data_Migration
+- Have done some addon acquisitions previously",2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_535,ThoughtWorks,1,,,1,5,,,,,531,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_536,ThreeSixty Group,1,,,2,24,,,65.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_537,Tillys,1,,,2,25,,,50.8,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_538,Togetherworks,1,,,1,3,,,,,150,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_539,Traeger,1,,,2,24,,,59.5,,800.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_540,TransPerfect,1,,,1,5,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_541,Treliant Risk Advisors,1,,,1,38,,,,,420,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_542,TriMark,1,,,2,27,,,109.0,,1350.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_543,TricorBraun,1,,,2,34,,,120.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_544,Trilantic,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_545,Trivest,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_546,Truck Hero,1,,,1,7,,,,,1470,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_547,Trust Company of America,1,,,1,13,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_548,TrustCommerce,1,,,1,3,,,,,66,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_549,Tunnel Hill,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_550,Tyree & D'Angelo Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_551,Tyson Kettle,1,,,2,26,,,21.7,,130.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_552,UBS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_553,UBS,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_554,"UBS, Allen & Co.",2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_555,US Beef,1,,,2,27,,,40.0,,240.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_556,US Fitness,1,,,2,34,,,32.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_557,US Retirement & Benefits Partners,1,,,1,5,,,,,327,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_558,US Security Associates,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_559,USIC,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_560,Uncle Julio's,1,,,2,27,,,26.6,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_561,Unidine,1,,,2,23,,,24.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_562,United Capital,1,,,1,13,,,,,300,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_563,United Natural Foods,1,,,2,23,,,331.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_564,United Pacific Pet,1,,,2,23,,,4.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_565,United Site Services,1,,,1,8,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_566,Urgent Care Group,1,,,3,29,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_567,Vaco,1,,,1,11,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_568,Valor Equity Partners,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_569,Vantiv / Worldpay,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_570,Variety Wholesalers,1,,,2,25,,,75.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_571,Venturehouse,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_572,Vision Direct,1,,,3,29,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_573,Vista Equity,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_574,Vitamin Shoppe,1,,,2,25,,,75.75,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_575,WIS International,1,,,1,5,,,,,300,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_576,Warburg,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_577,Warburg Pincus,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_578,Water Street,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_579,Waud Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_580,Wells Fargo,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_581,Wells Fargo,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_582,Western Reserve Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_583,Western Reserve Partners,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_584,Wheel Pros,1,,,2,24,,,53.3,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_585,William Blair,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_586,William Blair,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_587,Wind River Environmental,1,,,1,4,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_588,Wipro,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_589,Wipro Assets,1,,,1,5,,,,,540,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_590,Wolf Furniture,1,,,2,25,,,2.9,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_591,Woodbridge International,2,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_592,World Business Lenders,1,,,1,19,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_593,Young Innovations,1,,,3,31,,,60.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_594,Yukon Capital,3,,,,,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_595,Zafin,1,,,1,14,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_596,Zodiac,1,,,2,34,,,87.4,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_597,Zoë's Kitchen,1,,,2,27,,,30.8,,346.5,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_598,iCracked Inc.,1,,,2,27,,,50.0,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_599,iHerb,1,,,2,26,,,,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_600,littleBits,1,,,2,26,,,66.3,,,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
+COM_601,umentioned,1,,,2,23,,,11.8,,160.0,,,,,,,,,,,2025-07-14 12:26:04.667254,System_Data_Migration,2025-07-14 12:26:04.675223,System_Data_Migration
